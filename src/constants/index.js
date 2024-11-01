@@ -1,6 +1,6 @@
-import project1 from "../assets/projects/project-1.png";
-import project2 from "../assets/projects/project-2.png";
-import project3 from "../assets/projects/project-3.png";
+import project1 from "../assets/projects/Project-1.png";
+import project2 from "../assets/projects/Project-2.png";
+import project3 from "../assets/projects/Project-3.png";
 
 export const HERO_CONTENT = `I am a passionate and detail-oriented web developer skilled in building dynamic and scalable web applications. With 1 years of hands-on experience, I specialize in front-end technologies like React and Next.js and back-end development with Node.js, PostgreSQL, and MongoDB. I am dedicated to creating efficient, user-friendly solutions that enhance business growth and provide exceptional user experiences. My goal is to bring innovation and reliability to every project, collaborating effectively with cross-functional teams to deliver high-quality, responsive applications.`;
 
